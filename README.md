@@ -1,3 +1,3 @@
-# Herramientas computacionales: el arte de la programación
+# Simulador de Comercio Electrónico "Ecommerce"
 
-TC1001S - Herramientas computacionales: el arte de la programación
+TC1033 - Pensamiento computacional orientado a objetos
